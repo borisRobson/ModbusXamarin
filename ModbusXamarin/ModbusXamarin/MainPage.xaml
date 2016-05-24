@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ModbusXamarin.MainPage"
+             x:local="clr-namespace:ModbusXamarin">
+  
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness">
+      <OnPlatform.iOS>0,20,0,0</OnPlatform.iOS>
+    </OnPlatform>
+  </ContentPage.Padding>
+
+  <StackLayout>
+    <StackLayout.Children>
+      <Label Text="Modbus Controller" HorizontalOptions="Center"/>
+      <Button Text="Configure Host" Clicked="ConfigHostClicked"/>
+      <Button Text="Configure Interface" Clicked="ConfigIntClicked"/>
+      <Button Text="Launch Controller" Clicked="LaunchCntrlClicked"/>      
+    </StackLayout.Children>
+  </StackLayout>
+  
+  
+  
+  
+  
+</ContentPage>

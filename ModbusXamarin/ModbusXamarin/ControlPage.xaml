@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ModbusXamarin.ControlPage">
+
+  <StackLayout >
+    
+    <Grid Padding="5,10" RowSpacing="1" ColumnSpacing="1" BackgroundColor="Black" >
+    
+      <Grid.RowDefinitions>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="2*"/>
+        <ColumnDefinition Width="2*"/>
+      </Grid.ColumnDefinitions>
+
+      <Label Text="Device No: " VerticalTextAlignment="Center" HorizontalTextAlignment="Center" Font="Bold,25" BackgroundColor="Black" TextColor="White" Grid.ColumnSpan="1" Grid.Column="0" Grid.Row="0" />
+      <Entry x:Name="devNum" BackgroundColor="White" Keyboard="Numeric" Grid.ColumnSpan="1" Grid.Column="1" TextColor="Black" Grid.Row="0"/>    
+      <Label Text="Dev Ip Address: " HorizontalTextAlignment="Center" Font="Bold,25" BackgroundColor="Black" TextColor="White" Grid.ColumnSpan="1" Grid.Column="0" Grid.Row="1" />
+      <Entry x:Name="devIpAddr" BackgroundColor="White"  Grid.ColumnSpan="1" Grid.Column="1" TextColor="Black" Grid.Row="1"/>    
+      <Label Text="host Ip Address: " HorizontalTextAlignment="Center" Font="Bold,25" BackgroundColor="Black" TextColor="White" Grid.ColumnSpan="1" Grid.Column="0" Grid.Row="2" />
+      <Entry x:Name="hostIpAddr" BackgroundColor="White"  Grid.ColumnSpan="1" Grid.Column="1" TextColor="Black" Grid.Row="2"/>    
+    
+    </Grid>
+    
+    <Grid Padding="5,10" RowSpacing="1" ColumnSpacing="1" BackgroundColor="Black" VerticalOptions="Center">
+    
+      <Grid.RowDefinitions>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>        
+      </Grid.RowDefinitions>
+      
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*"/>
+        <ColumnDefinition Width="*"/>
+        <ColumnDefinition Width="*"/>
+        <ColumnDefinition Width="*"/>
+      </Grid.ColumnDefinitions>
+
+      <Label Text="In 1:" Font="Bold,20" HorizontalTextAlignment="Center" BackgroundColor="Black" TextColor="White" Grid.ColumnSpan="1" Grid.Row="0" Grid.Column="0" />
+      <Button x:Name="Input1" Text="Off" BackgroundColor="Red" TextColor="White" Grid.ColumnSpan="1" Grid.Row="0" Grid.Column="1" />
+      <Label Text="In 2:" Font="Bold,20" HorizontalTextAlignment="Center" BackgroundColor="Black" TextColor="White" Grid.ColumnSpan="1" Grid.Row="1" Grid.Column="0" />
+      <Button x:Name="Input2" Text="Off" BackgroundColor="Red" TextColor="White" Grid.ColumnSpan="1" Grid.Row="1" Grid.Column="1" />
+      <Label Text="In 3:" Font="Bold,20" HorizontalTextAlignment="Center" BackgroundColor="Black" TextColor="White" Grid.ColumnSpan="1" Grid.Row="2" Grid.Column="0" />
+      <Button x:Name="Input3" Text="Off" BackgroundColor="Red" TextColor="White" Grid.ColumnSpan="1" Grid.Row="2" Grid.Column="1" />
+      <Label Text="In 4:" Font="Bold,20" HorizontalTextAlignment="Center" BackgroundColor="Black" TextColor="White" Grid.ColumnSpan="1" Grid.Row="3" Grid.Column="0" />
+      <Button x:Name="Input4" Text="Off" BackgroundColor="Red" TextColor="White" Grid.ColumnSpan="1" Grid.Row="3" Grid.Column="1" />
+      
+      <Label  Text="Out 1:" Font="Bold,20" HorizontalTextAlignment="Center" BackgroundColor="Black" TextColor="White" Grid.ColumnSpan="1" Grid.Row="0" Grid.Column="2" />
+      <Button x:Name="Out1" Text="Off" Clicked="ToggleState" BackgroundColor="Red" TextColor="White" Grid.ColumnSpan="1" Grid.Row="0" Grid.Column="3" />
+      <Label Text="Out 2:" Font="Bold,20"  HorizontalTextAlignment="Center" BackgroundColor="Black" TextColor="White" Grid.ColumnSpan="1" Grid.Row="1" Grid.Column="2" />
+      <Button x:Name="Out2" Text="Off" Clicked="ToggleState" BackgroundColor="Red" TextColor="White" Grid.ColumnSpan="1" Grid.Row="1" Grid.Column="3" />
+      <Label Text="Out 3:" Font="Bold,20" HorizontalTextAlignment="Center" BackgroundColor="Black" TextColor="White" Grid.ColumnSpan="1" Grid.Row="2" Grid.Column="2" />
+      <Button  x:Name="Out3" Text="Off" Clicked="ToggleState" BackgroundColor="Red" TextColor="White" Grid.ColumnSpan="1" Grid.Row="2" Grid.Column="3" />
+      <Label Text="Out 4:" Font="Bold,20" HorizontalTextAlignment="Center" BackgroundColor="Black" TextColor="White" Grid.ColumnSpan="1" Grid.Row="3" Grid.Column="2" />
+      <Button x:Name="Out4" Text="Off" Clicked="ToggleState" BackgroundColor="Red" TextColor="White" Grid.ColumnSpan="1" Grid.Row="3" Grid.Column="3" />
+    
+    </Grid>
+
+    <Grid Padding="5,10" RowSpacing="1" ColumnSpacing="5" BackgroundColor="Black" VerticalOptions="Center">
+
+      <Grid.RowDefinitions>
+        <RowDefinition Height="*"/>
+      </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*"/>
+      <ColumnDefinition Width="*"/>
+      <ColumnDefinition Width="*"/>
+    </Grid.ColumnDefinitions>
+      
+      <Button x:Name="btnRead" Text="Read" Clicked="GetStates" Font="Bold,20" BackgroundColor="Black" TextColor="White" Grid.Column="0"/>
+      <Button x:Name="btnWrite" Text="Write" Clicked="SetOutputs" Font="Bold,20" BackgroundColor="Black" TextColor="White" Grid.Column="1"/>
+      <Button x:Name="btnLive" Text="Live" Clicked="LiveConnect" Font="Bold,20" BackgroundColor="Black" TextColor="White" Grid.Column="2"/>
+      
+    </Grid>
+    
+    
+  </StackLayout>
+  
+  
+  
+</ContentPage>

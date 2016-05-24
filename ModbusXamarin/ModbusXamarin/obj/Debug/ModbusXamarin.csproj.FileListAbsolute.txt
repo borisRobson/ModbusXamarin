@@ -1,0 +1,60 @@
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\ModbusXamarin.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\ModbusXamarin.pdb
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.csprojResolveAssemblyReference.cache
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.pdb
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.MainPage.xaml.g.cs
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.ControlPage.xaml.g.cs
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.Abstractions.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.pdb
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.xml
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.Abstractions.pdb
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.Abstractions.xml
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\ModernHttpClient.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\OkHttp.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\ModbusXamarin.dll.config
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.csproj.App.config
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.dll.mdb
+C:\Users\Brandon RobsonClarke\Desktop\Projects\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\ModbusXamarin.dll.mdb
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\ModbusXamarin.dll.config
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\ModbusXamarin.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\ModbusXamarin.pdb
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\ModernHttpClient.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\OkHttp.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.Abstractions.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.pdb
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.xml
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.Abstractions.pdb
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Sockets.Plugin.Abstractions.xml
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.csproj.App.config
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.csprojResolveAssemblyReference.cache
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.MainPage.xaml.g.cs
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.ControlPage.xaml.g.cs
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.dll
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.pdb
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\obj\Debug\ModbusXamarin.dll.mdb
+C:\Users\Brandon RobsonClarke\Desktop\0042 - Modbus Controller\ModbusXamarin\ModbusXamarin\ModbusXamarin\bin\Debug\ModbusXamarin.dll.mdb

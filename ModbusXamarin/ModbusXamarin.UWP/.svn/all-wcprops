@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/svnrepos/!svn/ver/92095/Research%20Projects/0042%20-%20Modbus%20Controller/ModbusXamarin/ModbusXamarin/ModbusXamarin.UWP
+END
+ModbusXamarin.UWP.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/svnrepos/!svn/ver/92052/Research%20Projects/0042%20-%20Modbus%20Controller/ModbusXamarin/ModbusXamarin/ModbusXamarin.UWP/ModbusXamarin.UWP.csproj
+END
+App.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/svnrepos/!svn/ver/92052/Research%20Projects/0042%20-%20Modbus%20Controller/ModbusXamarin/ModbusXamarin/ModbusXamarin.UWP/App.xaml.cs
+END
+project.lock.json
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/svnrepos/!svn/ver/92090/Research%20Projects/0042%20-%20Modbus%20Controller/ModbusXamarin/ModbusXamarin/ModbusXamarin.UWP/project.lock.json
+END
+MainPage.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/svnrepos/!svn/ver/92052/Research%20Projects/0042%20-%20Modbus%20Controller/ModbusXamarin/ModbusXamarin/ModbusXamarin.UWP/MainPage.xaml.cs
+END
+Package.appxmanifest
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/svnrepos/!svn/ver/92052/Research%20Projects/0042%20-%20Modbus%20Controller/ModbusXamarin/ModbusXamarin/ModbusXamarin.UWP/Package.appxmanifest
+END
+ModbusXamarin.UWP.nuget.targets
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/svnrepos/!svn/ver/92052/Research%20Projects/0042%20-%20Modbus%20Controller/ModbusXamarin/ModbusXamarin/ModbusXamarin.UWP/ModbusXamarin.UWP.nuget.targets
+END
+project.json
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/svnrepos/!svn/ver/92090/Research%20Projects/0042%20-%20Modbus%20Controller/ModbusXamarin/ModbusXamarin/ModbusXamarin.UWP/project.json
+END
+App.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/svnrepos/!svn/ver/92052/Research%20Projects/0042%20-%20Modbus%20Controller/ModbusXamarin/ModbusXamarin/ModbusXamarin.UWP/App.xaml
+END
+MainPage.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/svnrepos/!svn/ver/92052/Research%20Projects/0042%20-%20Modbus%20Controller/ModbusXamarin/ModbusXamarin/ModbusXamarin.UWP/MainPage.xaml
+END
+Windows_TemporaryKey.pfx
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/svnrepos/!svn/ver/92052/Research%20Projects/0042%20-%20Modbus%20Controller/ModbusXamarin/ModbusXamarin/ModbusXamarin.UWP/Windows_TemporaryKey.pfx
+END
